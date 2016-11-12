@@ -4,8 +4,8 @@
 :start
 
 set atmel_path= "C:\Program Files (x86)\Atmel\Studio\7.0"
-set csr_path= "C:\ADK3.5\tools\bin"
-::set csr_path= "C:\Program Files (x86)\CSR\BlueSuite 2.6.2"
+::set csr_path= "C:\ADK3.5\tools\bin"
+set csr_path= "C:\Program Files (x86)\CSR\BlueSuite 2.6.2"
 
 pause
 
